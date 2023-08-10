@@ -1,2 +1,2 @@
 # CsvHelperTest
-blog : https://kjcoder.tistory.com/2008
+blog : https://kjun.kr/2008
